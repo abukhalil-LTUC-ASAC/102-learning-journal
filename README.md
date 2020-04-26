@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to GitHub Pages, Friend!
 
 GitHub pages allow for "no code, no worries" solution to hosting your personalized website for free. This is possible by tying that page with your GitHub username, Jekyll that will organize your content into premade style, and the content itself using Markdown syntax.
 
@@ -13,4 +13,4 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 
 ### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Having trouble with Pages? Text me! or check out the [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and they’ll help you sort it out.
