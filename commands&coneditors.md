@@ -9,7 +9,7 @@ Unless you are looking for painful coding experiences, I would suggest looking a
 This however, offers the whole package to you. Including but not limited to [The Editor, Compiler, Debugger, Profiler](https://teckangaroo.com/wp-content/uploads/2019/02/Screenshot_21.png) for CPU and RAM usages and much more! This huge of a software is sometimes required to be proficient in, depending on your company practices.
 
 ## A Review Of Commandline (CMD *for windows*)
-That black space of emptiness infront of you? It is actually your direct line to the machine. The commands you input generally allows you to do almost everything you could already do without this, so why bother?
+That black space of emptiness infront of you? It is actually your direct line to the machine. The commands you input generally allows you to do [almost everything](https://ryanstutorials.net/linuxtutorial/commandline.php) you could already do without this, so why bother?
 
 Generally speaking, the Terminal could runs scripts to execute multiple commands, seamlessly move around directories and adding files and folders on the fly. These traits and many more could be your new lifestyle of managing a project and *[eventually be absorbed into the machine itself as fluency progresses](https://dev.to/nrobinson2000/why-you-need-terminal-bpd)*.
 
