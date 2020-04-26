@@ -6,7 +6,7 @@ Looking at some pre-installed pieces, you might notice that it kind of resembles
 Unless you are looking for painful coding experiences, I would suggest looking at other more complex pieces. This suggestion works because, other than how the environment looks, you would want less time spent debugging and coding too by having the software look for linked functions, and autocomplete lines of code for you to fill in, such as **[ATOM](https://atom.io/)** and **[Sublime](https://www.sublimetext.com/)**. There are even online editors that allows quick sharing of code such as **[JSFiddle](https://jsfiddle.net/OceanXIS/tnpgcw1k/)**.
 
 ## An Integrated Development Environment(IDE) 
-However, offers the whole package to you. Including but not limited to [The Editor, Compiler, Debugger, Profiler](https://teckangaroo.com/wp-content/uploads/2019/02/Screenshot_21.png) for CPU and RAM usages and much more! This huge of a software is sometimes required to be proficient in, depending on your company practices.
+This however, offers the whole package to you. Including but not limited to [The Editor, Compiler, Debugger, Profiler](https://teckangaroo.com/wp-content/uploads/2019/02/Screenshot_21.png) for CPU and RAM usages and much more! This huge of a software is sometimes required to be proficient in, depending on your company practices.
 
 ## A Review Of Commandline (CMD *for windows*)
 That black space of emptiness infront of you? It is actually your direct line to the machine. The commands you input generally allows you to do almost everything you could already do without this, so why bother?
