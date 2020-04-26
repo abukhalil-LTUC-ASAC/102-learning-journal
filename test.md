@@ -15,3 +15,4 @@ def foo():
     if not bar:
         return True
 ```
+![Check out this COOL penguin!](/images/penguins.jpg)
