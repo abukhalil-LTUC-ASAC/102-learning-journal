@@ -2,7 +2,7 @@
 
 Starting with some problems I had once I was graduated from school, I had to explore some options to deal with them whilist
 continuing my education at University. It was obvious at the beginning, some new concepts here and there, tons of workload and life balance, new feelings of _envy_ I did not experience before. The major issue is, they were piling up **fast**, with no clearing at sight.
-
+![Growth vs Fixed Brain](https://static.wixstatic.com/media/a27d24_7803feda8ff14c53b93d4b5489e285ab~mv2.png/v1/fill/w_925,h_520,al_c,q_90,usm_0.66_1.00_0.01/a27d24_7803feda8ff14c53b93d4b5489e285ab~mv2.webp)
 **_Growth Mindset_** concepts could offer some remedy, as in part solution part consolation, kind of similar to our talk at school
 and home, about the heroes of old ages and their stories. But instead, it talks to us, and looks at our problems in a specific and personal format to maximize the impact. 
 
