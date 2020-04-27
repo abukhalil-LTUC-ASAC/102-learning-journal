@@ -21,7 +21,7 @@ Having trouble with Pages? Text me! or check out the [documentation](https://hel
 
 # **Table of Contents**
 * ### [Growth Mindset](https://abukhalil95.github.io/learning-journal/main)
-##### &nbsp;&nbsp;&nbsp;An Introduction..
+##### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;An Introduction..
 
 * ### [Commands & Coneditors](https://abukhalil95.github.io/learning-journal/commands&coneditors)
-##### &nbsp;&nbsp;&nbsp;A quick look into terminal and code editors.
+##### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;A quick look into terminal and code editors.
