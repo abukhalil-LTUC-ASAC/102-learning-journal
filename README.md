@@ -25,3 +25,7 @@ Having trouble with Pages? Text me! or check out the [documentation](https://hel
 
 * ### [Commands & Coneditors](https://abukhalil95.github.io/learning-journal/commands&coneditors)
 ##### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;A quick look into terminal and code editors.
+
+* ### [Gitgud](https://abukhalil95.github.io/learning-journal/git-gud)
+##### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The git
+
