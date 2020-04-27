@@ -1,1 +1,1 @@
-# So What is a **git**?
+# So What is a *git*?
