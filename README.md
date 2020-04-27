@@ -11,6 +11,10 @@ could be explored at [Mastering Markdown](https://guides.github.com/features/mas
 
 Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/AbuKhalil95/learning-journal/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
+### What's Next?
+
+Starting with the purpose and right toolset, we will be disucssing about the most important tool of them all. Your brain, or rather [growth mindset](https://abukhalil95.github.io/learning-journal/main).
+
 ### Support or Contact
 
 Having trouble with Pages? Text me! or check out the [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and they’ll help you sort it out.
