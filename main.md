@@ -11,4 +11,3 @@ My own interpretation, other than the one that was beautifully explained in **[T
 > This is what growth mindset meant for me, so what does it mean for you?
 
 **[Up Next: The Terminal And Editors](https://abukhalil95.github.io/learning-journal/commands&coneditors)**
-Test
