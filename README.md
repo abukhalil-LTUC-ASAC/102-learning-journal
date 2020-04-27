@@ -19,7 +19,7 @@ Starting with the purpose and right toolset, we will be disucssing about the mos
 
 Having trouble with Pages? Text me! or check out the [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and they’ll help you sort it out.
 
-**Table of Contents**
+# **Table of Contents**
 ## [Growth Mindset](https://abukhalil95.github.io/learning-journal/main)
 ##### An Introduction..
 
