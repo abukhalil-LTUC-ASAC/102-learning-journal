@@ -1,6 +1,6 @@
 # So what is a *git*?
  
-Contrary to the name of the file, its not gitgud, not git-up and neither GitHub, its actually "*the stupid content tracker*" named by Linus Trovalds, or an unpleasant person in British slang, when in **good** mood it becomes a "global information tracker", and when it **breaks** it is a "goddamn idiotic truckload of s***"...
+Contrary to the name of the file, its not gitgud, not git-up and neither GitHub, its actually "*the stupid content tracker*" named by Linus Trovalds, or an unpleasant person in British slang. When in **good** mood it becomes a "global information tracker", and when it **breaks** it is a "goddamn idiotic truckload of s***"...
  
  ![Awesome Git](https://miro.medium.com/max/3508/1*tnvRls6Dg7vFt0zGdtfu_w.png)
 Seriously though, git is a distributed version control system (DVCS). The name has 2 parts, distributed as in data storage in multiple locations to avoid security risks and data loss, version control that makes it possible to retrieve and revert to earlier versions and making sure each step is calculated with minimal risk.
