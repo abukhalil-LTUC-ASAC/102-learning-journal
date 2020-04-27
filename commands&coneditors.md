@@ -14,3 +14,4 @@ That black space of emptiness infront of you? It is actually your direct line to
 Generally speaking, the Terminal could runs scripts to execute multiple commands, seamlessly move around directories and adding files and folders on the fly. These traits and many more could be your new lifestyle of managing a project and *[eventually be absorbed into the machine itself as fluency progresses](https://dev.to/nrobinson2000/why-you-need-terminal-bpd)*.
 
 Sounds intriguing? Starting **[BASH](https://www.linuxjournal.com/content/understanding-bash-elements-programming)ing** today!
+But before! [Click here](https://abukhalil95.github.io/learning-journal/git-gud) to gitgud.
