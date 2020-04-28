@@ -11,6 +11,7 @@ html, body {
 }
 
 header {
+    background-color: #1554B3;
     position: fixed;
     width: 100%;
     z-index: 1;
@@ -20,4 +21,11 @@ header {
     cursor: pointer;
     box-shadow: 0 2px 5px 0 rgba(0,0,0,0.16), 
     0 2px 10px 0 rgba(0,0,0,0.12);
+}
+h1  {
+    float: left;
+}
+nav {
+    float:right;
+    display: block;
 }
