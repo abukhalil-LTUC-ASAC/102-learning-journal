@@ -23,4 +23,5 @@ Having trouble with Pages? Text me! or check out the [documentation](https://hel
 * #### [Growth Mindset](https://abukhalil95.github.io/learning-journal/main): An Introduction..
 * #### [Commands & Coneditors](https://abukhalil95.github.io/learning-journal/commands&coneditors): A quick look into terminal and code editors.
 * #### [Gitgud](https://abukhalil95.github.io/learning-journal/git-gud): The git.
+* #### [The 3W](https://abukhalil95.github.io/learning-journal/the_3w): Asking some questions.
 
