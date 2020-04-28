@@ -7,15 +7,15 @@ Seriously though, git is a distributed version control system (DVCS). The name h
 
 This piece.. of software allowed projects of ginormous proportions and hundreds of coders to contribute seamlessly to the code base and make things simply happen much faster and easier.
 
-# How to get started?
+## How to get started?
 
 The simplest way is to get a GitHub account, and from there add repositries and project files! and every change from now on will be tracked. So what are you waiting for? [Get Started!](https://github.com/)
 
-# Other notes
+## Other notes
 
 [Here is a more comprehensive guide](https://www.udemy.com/blog/git-tutorial-a-comprehensive-guide/) that shows you details of the git. Including information on how to do git operations from **The Terminal**.
 
-# From the Terminal
+## From the Terminal
 
 It is of outmost important to get a [Full Setup](https://codefellows.github.io/code-201-prework/prework/windows/02_WSL_Ubuntu_setup.html) done and  proper editor or IDE to work with you git imports from the terminal, such as [VSCode](https://code.visualstudio.com/) that I am currently using with the other coders around me. functions to learn about are:
 * **IMPORT/CLONING**
@@ -27,4 +27,4 @@ It is of outmost important to get a [Full Setup](https://codefellows.github.io/c
 
 > Well, you may start coding now
 
-*Maybe just a couple more [questions](https://abukhalil95.github.io/learning-journal/the_3w)?*
+## *Maybe just a couple more [questions](https://abukhalil95.github.io/learning-journal/the_3w)?*
