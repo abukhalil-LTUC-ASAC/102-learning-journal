@@ -1,0 +1,23 @@
+html {
+    box-sizing: border-box
+}
+
+html, body {
+    font-family: Verdana,sans-serif;
+}
+
+*,*:before,*:after {
+    box-sizing: inherit;
+}
+
+header {
+    position: fixed;
+    width: 100%;
+    z-index: 1;
+    line-height: 1.5;
+    font-size: 15px;
+    text-decoration: none;
+    cursor: pointer;
+    box-shadow: 0 2px 5px 0 rgba(0,0,0,0.16), 
+    0 2px 10px 0 rgba(0,0,0,0.12);
+}
