@@ -26,3 +26,5 @@ It is of outmost important to get a [Full Setup](https://codefellows.github.io/c
 * **Pushing Your Code**
 
 > Well, you may start coding now
+
+*Maybe just a couple more [questions](https://abukhalil95.github.io/learning-journal/the_3w)?*
