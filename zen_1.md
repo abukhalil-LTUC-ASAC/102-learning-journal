@@ -4,9 +4,9 @@
 
 Starting with CSS intro at Chapter 10 of Docker [HTML & CSS](https://wtf.tw/ref/duckett.pdf) book, it is easy to notice that css styling rules all depend on which element you select, and each element is treated as a box.
 
-selection could be global with `*`, general with `header, main, nav` or specific with `.ThisClass, #ThisID`. The potential is endless, though what you would want to work with is implementing templates depending on the content and target audience. Just make sure to put it in a seperate folder and call it in the HTML file with the `<link rel= "stylesheet" href="styles.css"/>` in the header.
+selection could be global with `*`, general with `header, main, nav` or specific with `.ThisClass, #ThisID`. The potential is endless, though what you would want to work with is implementing templates depending on the content and target audience. Just make sure to put it in a seperate folder and call it in the HTML file with the `<link rel= "stylesheet" href="styles.css"/>` in the head.
 
-Inspect element with `CTRL+C` in a webpage to learn, copy and test CSS attributes seems to be my way to go. Although there are better practices for beginner frontend work to get the general feeling of how to manipulate elements right.
+Inspect element with `CTRL+SHIFT+C` in a webpage to learn, copy and test CSS attributes seems to be my way to go. Although there are better practices for beginner frontend work to get the general feeling of how to manipulate elements right.
 
 Color templates seem to be my kryptonite. No matter how much I learn, I end up using greyscale for my work.
 
