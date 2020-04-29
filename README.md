@@ -24,4 +24,4 @@ Having trouble with Pages? Text me! or check out the [documentation](https://hel
 * #### [Commands & Coneditors](https://abukhalil95.github.io/learning-journal/commands&coneditors): A quick look into terminal and code editors.
 * #### [Gitgud](https://abukhalil95.github.io/learning-journal/git-gud): The git.
 * #### [The 3W](https://abukhalil95.github.io/learning-journal/the_3w): Asking some questions on what, who and how to website.
-* #### [The 3W](https://abukhalil95.github.io/learning-journal/zen_1): A bit more answers to that question.
+* #### [Zen 1.0](https://abukhalil95.github.io/learning-journal/zen_1): A bit more answers to that question.
