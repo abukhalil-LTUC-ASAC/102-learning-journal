@@ -10,5 +10,5 @@ Going back to the [book](https://wtf.tw/ref/duckett.pdf), if you wish, means you
 
 Now make sure to use inspect element, get your favourite sites loaded and explore the different functionalities.
 
-> Get exploring, *for real*.
+> Now get exploring, *for real*.
 
