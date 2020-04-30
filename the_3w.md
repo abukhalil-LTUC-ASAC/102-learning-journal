@@ -18,5 +18,5 @@ Now its time to know the **How**, mostly by looking through a PDF by **[Jon Duck
 
 > Is it finally time to start coding some more?
 
-## What about the [CSS](https://abukhalil95.github.io/learning-journal/the_3w)?
+## What about the [CSS](https://abukhalil95.github.io/learning-journal/zen_1)?
 
