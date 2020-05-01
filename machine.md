@@ -2,7 +2,7 @@
 
 That's right! Get this [link](https://www.youtube.com/playlist?list=PLzdnOPI1iJNcsRwJhvksEo1tJqjIqWbN-) on and start watching bill gates, being a cool guy that he is<sub>* not an ad*</sub>, introducing a series to know more about computers!
 
-Just to make it easier for you, I had summarised what I understood. **First-next** video shows us the concept of the computer, and why it was needed to lift some repetitive labour and ease work! And how just `input`,`storage`,`processing` and `output` is exactly what machinese do. 
+Just to make it easier for you, I had summarized what I understood. **First-next** video shows us the concept of the computer, and why it was needed to lift some repetitive labor and ease work! And how just `input`,`storage`,`processing` and `output` is exactly what machines do. 
 
 **Second-next** hands you the binary in a silver platter, fully explained to show you how `0,1` means everything to the machine, including `text`,`images` and even `sound`!
 
