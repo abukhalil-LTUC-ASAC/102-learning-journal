@@ -1,6 +1,6 @@
 # Tasked to watch some videos!
 
-That's right! Get this [link](https://www.youtube.com/playlist?list=PLzdnOPI1iJNcsRwJhvksEo1tJqjIqWbN-) on and start watching bill gates, being a cool guy that he is<sub>*not a microsoft ad*</sub>, introducing a series to know more about computers! *Don't ask me why not show this at the beginning*
+That's right! Get this [link](https://www.youtube.com/playlist?list=PLzdnOPI1iJNcsRwJhvksEo1tJqjIqWbN-) on and start watching bill gates, being a cool guy that he is<sub>* not an ad*</sub>, introducing a series to know more about computers! *Don't ask me why not show this at the beginning*
 
 Just to make it easier for you, I had summarised what I understood. **First-next** video shows us the concept of the computer, and why it was needed to lift some repetitive labour and ease work! And how just `input`,`storage`,`processing` and `output` is exactly what machinese do. 
 
