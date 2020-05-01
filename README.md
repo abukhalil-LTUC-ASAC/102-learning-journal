@@ -26,3 +26,4 @@ Having trouble with Pages? Text me! or check out the [documentation](https://hel
 * #### [The 3W](https://abukhalil95.github.io/learning-journal/the_3w): Asking some questions on what, who and how to website.
 * #### [Zen 1.0](https://abukhalil95.github.io/learning-journal/zen_1): A bit more answers to that question.
 * #### [Groovy Moves](https://abukhalil95.github.io/learning-journal/groovy): Looks like that is it.
+* #### [The Machine](https://abukhalil95.github.io/learning-journal/machine): What happaned here.
