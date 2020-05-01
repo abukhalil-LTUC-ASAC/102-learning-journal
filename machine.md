@@ -1,6 +1,6 @@
 # Tasked to watch some videos!
 
-That's right! Get this [link](https://www.youtube.com/playlist?list=PLzdnOPI1iJNcsRwJhvksEo1tJqjIqWbN-) on and start watching bill gates, being a cool guy that he is<sub>* not an ad*</sub>, introducing a series to know more about computers! *Don't ask me why not show this at the beginning*
+That's right! Get this [link](https://www.youtube.com/playlist?list=PLzdnOPI1iJNcsRwJhvksEo1tJqjIqWbN-) on and start watching bill gates, being a cool guy that he is<sub>* not an ad*</sub>, introducing a series to know more about computers! *Don't ask me why not show this at the beginning*.
 
 Just to make it easier for you, I had summarised what I understood. **First-next** video shows us the concept of the computer, and why it was needed to lift some repetitive labour and ease work! And how just `input`,`storage`,`processing` and `output` is exactly what machinese do. 
 
@@ -10,4 +10,4 @@ This next **Third** video is surely physical, turning your `0,1` into *On, Off* 
 
 CPU's for an example, calculates how to show you different types of information depending on the stored data by your memory (eg: RAM) with electrical signals reaching the [speed of light](https://www.scientificamerican.com/article/computers-are-becoming-fa/), and into the screen as bits and activate colors with it. Different real life applications require only different inputs and outputs, which will be interpreted through electrical signals that eventually be used to control [motors for movement](https://www.bostondynamics.com/), [vibrations for sound](https://www.explainthatstuff.com/loudspeakers.html) and general [data analysis for customer behavior](https://www.forbes.com/sites/kirimasters/2019/03/20/study-89-of-consumers-are-more-likely-to-buy-products-from-amazon-than-other-e-commerce-sites/#a4759ca4af1e), as explained in the **Final** video.
 
-> Can you feel the electric current going through?<sub>a closer step to make you one with the machine</sub>
+> Can you feel the electric current going through?
