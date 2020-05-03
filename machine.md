@@ -1,4 +1,4 @@
-# Tasked to watch some videos!
+# Tasked To Watch Some Videos!
 
 That's right! Get this [link](https://www.youtube.com/playlist?list=PLzdnOPI1iJNcsRwJhvksEo1tJqjIqWbN-) on and start watching bill gates, being a cool guy that he is<sub>* not an ad*</sub>, introducing a series to know more about computers!
 

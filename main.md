@@ -1,4 +1,6 @@
-# Learning from Growth Mindset
+# Learning From Growth Mindset
+
+Getting to know yourself better is somewhat important. Not only could you define your strengths and weaknesses, you could also save time and effort not doing the mistakes of trying to blend in where you don't belong and don't have to either. Therefore, it effectively means ***[taking the rein](https://idioms.thefreedictionary.com/take+the+reins)*** on yourself.
 
 Starting with some problems I had once I was graduated from school, I had to explore some options to deal with them whilist
 continuing my education at University. It was obvious at the beginning, some new concepts here and there, tons of workload and life balance, new feelings of _envy_ I did not experience before. The major issue is, they were piling up **fast**, with no clearing at sight.

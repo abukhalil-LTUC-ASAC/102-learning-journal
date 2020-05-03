@@ -1,4 +1,4 @@
-# So what is a *git*?
+# So What Is A *git*?
  
 Contrary to the name of the file, its not gitgud, not git-up and neither GitHub, its actually "*the stupid content tracker*" named by Linus Trovalds, or an unpleasant person in British slang. When in **good** mood it becomes a "global information tracker", and when it **breaks** it is a "goddamn idiotic truckload of s***"...
  

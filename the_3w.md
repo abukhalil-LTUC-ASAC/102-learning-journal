@@ -1,4 +1,4 @@
-# The What, Who and How to Website!
+# The What, Who And How To Website!
 
 Understanding **What** is in a website's content, starts with understanding the syntax and structure, purpose and finally the content and design.
 

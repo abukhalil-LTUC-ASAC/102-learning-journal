@@ -1,4 +1,4 @@
-# Everything is Bright & Dandy
+# Everything Is Bright & Dandy
 
 > Because eveything is bright & dandy! Just needs a ***bit*** of extra effort to get there. 
 
