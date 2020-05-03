@@ -28,4 +28,5 @@ Having trouble with Pages? Text me! or check out the [documentation](https://hel
 * #### [Groovy Moves](https://abukhalil95.github.io/learning-journal/groovy): Looks like that is it.
 * #### [The Machine](https://abukhalil95.github.io/learning-journal/machine): What happened here.
 * #### [First Steps](https://abukhalil95.github.io/learning-journal/first_steps): Might feel like baby steps.
+* #### [The Grind](https://abukhalil95.github.io/learning-journal/foreverAgrind): Or like going in cicles.
 
