@@ -6,3 +6,4 @@ Coding means bit manipulations, and JS manipulates html and css elements using a
 
 Functions however, adds more reusability, since it can be executed with *every single call*. Also makes your code much readable with seperate JS functions in each file. They are declared with `function DoThis(){};` with input between `()`, code to execute between `{}` and a return value inside that to give you back a value at the declaration such as `DoThis();` no matter where.
 
+> Time to bring that pickaxe and get some work done
