@@ -27,3 +27,5 @@ Having trouble with Pages? Text me! or check out the [documentation](https://hel
 * #### [Zen 1.0](https://abukhalil95.github.io/learning-journal/zen_1): A bit more answers to that question.
 * #### [Groovy Moves](https://abukhalil95.github.io/learning-journal/groovy): Looks like that is it.
 * #### [The Machine](https://abukhalil95.github.io/learning-journal/machine): What happened here.
+* #### [First Steps](https://abukhalil95.github.io/learning-journal/first_steps): Might feel like baby steps.
+
