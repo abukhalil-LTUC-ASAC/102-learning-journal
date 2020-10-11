@@ -14,4 +14,7 @@ Your condition is logical, and will always be either true or false. The comparis
 
 Wait! don't forget about **logical operators**! These help combine your conditions to include more complex sets through `&&`,`||` and `!` not allowing you to be more precise in your operations.
 
+
+It might look overwhelming and bleak. But just like the first explorers of jungles and oceans, you get to choose a path, and work on into it. So pick up your initial party of ships and company, check where you are in terms of [knowledge space](https://en.wikipedia.org/wiki/Knowledge_space) to make sure your conditions are suitable to get forward to the next loop update!
+
 > keep on going, along with the added complexity and don't be afraid of the code!
